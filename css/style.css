@@ -1,0 +1,16 @@
+.next-page{
+    display: inline-block;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.next-page:hover{
+    text-decoration: underline;
+    background-color: red;
+}
+
+
+
+
+
